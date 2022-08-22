@@ -1,4 +1,4 @@
-# snowie-tgautosell
+# Бот автопродаж by Snowie, Moshvi
 
 Информация о боте:
 - Написан на Python 3
